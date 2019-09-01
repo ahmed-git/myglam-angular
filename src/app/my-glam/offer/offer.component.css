@@ -1,0 +1,15 @@
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-image: url('../../../assets/images/slider_dot_pressed@1x.png');
+}
+
+.header-text {
+    position: absolute;
+    top: 20%;
+    left: 1.8%;
+    right: auto;
+    width: 100%;
+    color: #fff;
+}
